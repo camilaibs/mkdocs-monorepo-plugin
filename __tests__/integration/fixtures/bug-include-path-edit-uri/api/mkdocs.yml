@@ -1,0 +1,10 @@
+site_name: 'test'
+site_description: 'This is an api.'
+repo_url: https://github.com/egnwd/mkdocs-monorepo-plugin
+edit_uri: edit/bug-edit-uri/__tests__/integration/fixtures/bug-include-path-edit-uri/api/docs/
+
+plugins:
+  - monorepo
+
+nav:
+  - Home: index.md
